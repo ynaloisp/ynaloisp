@@ -1,5 +1,11 @@
-## Hi there 👋
+## 👋 About Me
 
+Hi! I'm Ynalois Pangilinan, a Computer Science student at Hunter College passionate about software engineering, data analysis, and building impactful tech. I'm currently a Data Science Intern at TD, working on automating the exploratory data analysis process using PySpark. I'm a student leader for Hunter College's Women in Computer Science Club, with a strong passion for creating a comfortable and safe community for women and under-represented minorities in tech. I'm also a campus ambassador for Simplify and love making job search more efficient for students like me.
+  
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ynaloispangilinan)
+
+📫 Email: ynaloispangilinan@gmail.com
 <!--
 **ynaloisp/ynaloisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
